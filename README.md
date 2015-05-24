@@ -1,3 +1,6 @@
+### Note: This repository follows the description (below) for Programming Assignment 2.
+## User: maljoakee
+
 ### Introduction
 
 This second programming assignment will require you to write an R
